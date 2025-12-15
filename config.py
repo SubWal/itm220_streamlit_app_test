@@ -10,3 +10,5 @@ COLUMNS = {
     "email": "TEXT",
     "age": "INTEGER"
 }
+
+# ID column name
